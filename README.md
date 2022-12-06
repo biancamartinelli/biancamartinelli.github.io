@@ -4,7 +4,7 @@
 
 📌No projeto foi utilizado HTML e CSS
 
-## 💻Imagens do Projeto:
+## 💻Imagem do Projeto:
 
 
 
