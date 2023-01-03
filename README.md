@@ -4,8 +4,8 @@
 
 📌No projeto foi utilizado HTML e CSS
 
-## 💻Imagens do Projeto:
+## 💻Imagem do Projeto:
 
-
+[Você pode acessar meu portifólio aqui](https://biancamartinelli.github.io/).
 
 ![portifolioimagem](https://user-images.githubusercontent.com/107266212/206036278-61b3909b-41f8-4400-ad70-f8fa80303567.jpg)
